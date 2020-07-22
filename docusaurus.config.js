@@ -1,11 +1,11 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://maxifom/github.io',
+  baseUrl: '/no_syntax_highlight_bug/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'maxifom', // Usually your GitHub org/user name.
+  projectName: 'no_syntax_highlight_bug', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
